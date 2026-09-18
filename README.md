@@ -4,6 +4,8 @@ github工具聚合
 [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 <img width="1768" height="1454" alt="image" src="https://github.com/user-attachments/assets/ed9efb1c-fd21-44be-b75f-36114df0b80e" />
 
+[profile-summary]([https://profile-summary-for-github.com](https://profile-summary-for-github.com/search))
+<img width="1980" height="1444" alt="image" src="https://github.com/user-attachments/assets/5b032e4d-45a7-47ea-9919-d541620862ae" />
 
 
 [github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements)

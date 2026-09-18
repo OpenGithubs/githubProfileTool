@@ -3,7 +3,6 @@ github工具聚合
 
 [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 <img width="1768" height="1454" alt="image" src="https://github.com/user-attachments/assets/ed9efb1c-fd21-44be-b75f-36114df0b80e" />
-<img width="1754" height="1444" alt="image" src="https://github.com/user-attachments/assets/22b5658e-823f-439e-9806-ee7676c7e9e3" />
 
 
 

@@ -40,6 +40,7 @@ https://github-profile-summary-cards.vercel.app/demo.html
 
 
 [star-history](https://github.com/star-history/star-history)
-<img width="1680" height="1060" alt="image" src="https://github.com/user-attachments/assets/29febc35-b38f-401b-bb61-95ab3ef4023d" />
+<img width="1536" height="998" alt="image" src="https://github.com/user-attachments/assets/040df991-7770-44d4-a6ed-ab5519ef8c7f" />
+
 
 

@@ -34,8 +34,10 @@ https://github-profile-summary-cards.vercel.app/demo.html
 
 
 [commit-history](https://github.com/peetzweg/commit-history)
+>> https://commit-history.com/
 
-<img width="2032" height="1460" alt="image" src="https://github.com/user-attachments/assets/5b669167-7376-4d4d-baee-b61fef69e314" />
+<img width="1912" height="1494" alt="image" src="https://github.com/user-attachments/assets/e52e5e37-f00d-43a4-aaf4-03b0dc4b8e71" />
+
 
 
 

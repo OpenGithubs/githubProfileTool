@@ -27,14 +27,13 @@ Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/i
 
 
 [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+> https://github-profile-summary-cards.vercel.app/demo.html
 
-https://github-profile-summary-cards.vercel.app/demo.html
 <img width="1878" height="1478" alt="image" src="https://github.com/user-attachments/assets/b630b94e-a59b-49ce-a82e-dc11b77676dd" />
 
 
-
 [commit-history](https://github.com/peetzweg/commit-history)
->> https://commit-history.com/
+> https://commit-history.com/
 
 <img width="1912" height="1494" alt="image" src="https://github.com/user-attachments/assets/e52e5e37-f00d-43a4-aaf4-03b0dc4b8e71" />
 
